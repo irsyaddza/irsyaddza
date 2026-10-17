@@ -44,7 +44,7 @@
 
 #### ⚡ Core Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,php,laravel,py,js,bash&theme=dark" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,php,laravel,js,bash&theme=dark" alt="Languages & Frameworks" />
 </p>
 
 #### 🎨 Frontend & Styling
