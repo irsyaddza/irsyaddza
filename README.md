@@ -32,7 +32,7 @@
 
 - **Primary Focus:** Web application development, embedded IoT systems, and automated container workflows.
 - **Core Stack:** C++ and Arduino for low-level systems & microcontrollers; Laravel, Tailwind CSS, and MySQL for modern web platforms; Docker for deployment.
-- **Interests:** San Andreas Multiplayer (SA-MP) tooling, Discord bot automation, and audio stream processing.
+- **Interests:** San Andreas Multiplayer (SA-MP)/open.mp development, Discord bot automation.
 - **Philosophy:** *"Kenapa ribet kalau bisa dipakein Docker aja?"*
 
 ---
@@ -43,7 +43,7 @@
 
 #### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,php,laravel,py,js,bash&theme=dark" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,php,laravel,js,&theme=dark" alt="Languages and Frameworks" />
 </p>
 
 #### Web & Styling
