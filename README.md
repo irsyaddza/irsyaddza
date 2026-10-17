@@ -43,7 +43,7 @@
 
 #### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,php,laravel,js,shell,&theme=dark" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,php,laravel,js,bash&theme=dark" alt="Languages and Frameworks" />
 </p>
 
 #### Web & Styling
