@@ -25,7 +25,7 @@
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
-│  "Software developer, hardware tinkerer, and container architect.     │
+│  "Software developer, hardware tinkerer, and container architect.      │
 │   If it compiles, ship it. If it doesn't, dockerize it until it does." │
 └────────────────────────────────────────────────────────────────────────┘
 ```
