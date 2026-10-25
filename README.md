@@ -26,8 +26,7 @@
 
 I focus on web application development, embedded IoT systems, and container-based deployment automation.
 
-- **Core stack:** C++, Arduino, Laravel, Docker
-- **Philosophy:** *"Why struggle when you can just use Docker?"*
+- **Philosophy:** *"Kenapa ribet kalo bisa pake docker?"*
 
 <br/>
 
@@ -35,7 +34,7 @@ I focus on web application development, embedded IoT systems, and container-base
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,php,laravel,js,bash,html,css,tailwind,mysql,sqlite,arduino,docker,linux,nginx,git&theme=dark" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=cpp,php,laravel,js,bash,html,css,tailwind,mysql,sqlite,arduino,docker,linux,nginx,git&theme=dark" alt="Tech stack" />
 
 </div>
 
