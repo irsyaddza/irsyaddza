@@ -2,17 +2,18 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Irsyad Zainul Abidin" />
 
+</div>
+
+<div align="center">
+
 <br/>
 
 <a href="https://github.com/irsyaddza">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=60A5FA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+%E2%80%A2+Embedded+%26+IoT+%E2%80%A2+DevOps;C%2B%2B+%2F+Arduino+%2F+Laravel+%2F+Linux;Dockerize+it+until+it+works" alt="Typing animation" />
 </a>
 
-</div>
-
 <br/>
-
-<div align="center">
+<br/>
 
 **Web apps · Embedded systems · Container workflows**
 
@@ -20,12 +21,16 @@
 
 <br/>
 
+---
+
+<br/>
+
 ## About
 
-Saya fokus pada pengembangan aplikasi web, sistem embedded IoT, dan otomasi deployment berbasis container.
+I focus on web application development, embedded IoT systems, and container-based deployment automation.
 
-- **Stack utama:** C++, Arduino, Laravel, Docker
-- **Prinsip:** *"Kenapa ribet kalau bisa dipakein Docker aja?"*
+- **Core stack:** C++, Arduino, Laravel, Docker
+- **Philosophy:** *"Why struggle when you can just use Docker?"*
 
 <br/>
 
@@ -45,11 +50,11 @@ Saya fokus pada pengembangan aplikasi web, sistem embedded IoT, dan otomasi depl
 
 <table>
   <tr>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=irsyaddza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub stats" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=irsyaddza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" alt="GitHub stats" />
     </td>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyaddza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyaddza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
     </td>
   </tr>
   <tr>
@@ -73,6 +78,7 @@ Saya fokus pada pengembangan aplikasi web, sistem embedded IoT, dan otomasi depl
 
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
