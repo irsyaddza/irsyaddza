@@ -28,8 +28,6 @@ I focus on web application development, embedded IoT systems, and container-base
 
 - **Philosophy:** *"Kenapa ribet kalo bisa pake docker?"*
 
-<br/>
-
 ## Tech Stack
 
 <div align="center">
