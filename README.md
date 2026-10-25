@@ -13,9 +13,6 @@
 </a>
 
 <br/>
-<br/>
-
-**Web apps · Embedded systems · Container workflows**
 
 </div>
 
