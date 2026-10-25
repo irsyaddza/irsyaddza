@@ -43,7 +43,7 @@
   <!-- Role -->
   <text x="450" y="148" text-anchor="middle" font-family="Fira Code, Consolas, monospace"
         font-size="16" fill="#8b949e">
-    Full-Stack Developer · IoT Tinkerer · Container Architect
+    Full-Stack Developer · IoT Tinkerer · DevOps
     <animate attributeName="opacity" values="0;1" begin="0.6s" dur="1.2s" fill="freeze"/>
   </text>
 
