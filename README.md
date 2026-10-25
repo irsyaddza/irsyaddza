@@ -18,20 +18,6 @@
 
 </div>
 
----
-
-### About
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│  "Software developer, hardware tinkerer, and container architect.      │
-│   If it compiles, ship it. If it doesn't, dockerize it until it does." │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-- **Primary Focus:** Web application development, embedded IoT systems, and automated container workflows.
-- **Core Stack:** C++ and Arduino IDE for low-level systems & microcontrollers, Laravel for web platforms, Docker for deployment.
-- **Philosophy:** *"Kenapa ribet kalau bisa dipakein Docker aja?"*
 <br/>
 
 ## About
